@@ -7,6 +7,7 @@ const App = () =>{
       <h1>PRIVET VSEM </h1>
       <P>IA REACT PRILIJENIE</P>
     </div>
+  
   )
 
 
